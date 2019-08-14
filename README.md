@@ -1,1 +1,2 @@
-# botjdid
+# zesty-tut
+For educational purposes.
